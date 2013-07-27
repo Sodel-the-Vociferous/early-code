@@ -1,13 +1,15 @@
-## My Earliest Code
+### My Earliest Code ###
 
 This repository contains the code that I wrote when first learning how
-to program computers.
+to program computers. You'll need to have
+[ Python ](http://python.org/download/releases/2.7.5) installed to play
+around with it.
 
 You should use this code to learn what *not* to do.
 
 In chronological order:
 
-# The Fake Operating System Interface
+#### The Fake Operating System Interface ####
 
 * November 14, 2007: *Test4.py*
     * I wrote *Test4.py* within two weeks of looking at the Python
