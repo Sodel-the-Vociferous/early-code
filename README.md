@@ -1,11 +1,14 @@
 ### My Earliest Code ###
 
+*DISCLAIMER*: This repository contains my earliest code *ever*. It's a
+mess, and its only purpose is as a hitorical curiosity. If anything,
+you should use this code to learn what *not* to do.
+
 This repository contains the code that I wrote when first learning how
 to program computers. You'll need to have
 [ Python ](http://python.org/download/releases/2.7.5) installed to play
 around with it.
 
-You should use this code to learn what *not* to do.
 
 In chronological order:
 
